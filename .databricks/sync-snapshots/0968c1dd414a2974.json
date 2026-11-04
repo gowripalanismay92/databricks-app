@@ -1,0 +1,32 @@
+{
+  "version": "v1",
+  "host": "https://adb-7405604831168137.17.azuredatabricks.net",
+  "remote_path": "/Workspace/Users/gowripalanisamy92@gmail.com/prism-identity-demo",
+  "last_modified_times": {
+    ".idea/.gitignore": "2026-11-04T04:45:55.459+05:30",
+    ".idea/databricks-app.iml": "2026-11-04T04:47:16.6171696+05:30",
+    ".idea/inspectionProfiles/profiles_settings.xml": "2026-11-04T04:45:55.7445003+05:30",
+    ".idea/modules.xml": "2026-11-04T04:45:55.7418513+05:30",
+    "app.py": "2026-11-04T05:00:10.178+05:30",
+    "app.yaml": "2026-11-03T16:22:36.11+05:30",
+    "requirements.txt": "2026-11-03T15:47:37.6436061+05:30"
+  },
+  "local_to_remote_names": {
+    ".idea/.gitignore": ".idea/.gitignore",
+    ".idea/databricks-app.iml": ".idea/databricks-app.iml",
+    ".idea/inspectionProfiles/profiles_settings.xml": ".idea/inspectionProfiles/profiles_settings.xml",
+    ".idea/modules.xml": ".idea/modules.xml",
+    "app.py": "app.py",
+    "app.yaml": "app.yaml",
+    "requirements.txt": "requirements.txt"
+  },
+  "remote_to_local_names": {
+    ".idea/.gitignore": ".idea/.gitignore",
+    ".idea/databricks-app.iml": ".idea/databricks-app.iml",
+    ".idea/inspectionProfiles/profiles_settings.xml": ".idea/inspectionProfiles/profiles_settings.xml",
+    ".idea/modules.xml": ".idea/modules.xml",
+    "app.py": "app.py",
+    "app.yaml": "app.yaml",
+    "requirements.txt": "requirements.txt"
+  }
+}
